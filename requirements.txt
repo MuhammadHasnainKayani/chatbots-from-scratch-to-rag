@@ -1,0 +1,29 @@
+# ===== Core Python Libraries =====
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# ===== Deep Learning (GRU/LSTM) =====
+tensorflow>=2.11.0
+keras>=2.11.0
+
+# ===== Transformers (BERT, ALBERT, DistilBERT, GPT-2) =====
+torch>=2.0.0
+transformers>=4.35.0
+datasets
+sentencepiece
+
+# ===== LangChain RAG Chatbot =====
+langchain>=0.1.0
+faiss-cpu
+openai
+tiktoken
+
+# ===== Audio / Embeddings (if extending Whisper, optional) =====
+librosa
+soundfile
+
+# ===== Utilities =====
+python-dotenv
