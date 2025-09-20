@@ -13,10 +13,10 @@ It showcases progression from classical intent classification to state-of-the-ar
 ```
 
 intelligent-chatbot-architectures/
-│── deep\_learning\_chatbot/    # BiLSTM & GRU intent classification
-│── transformer\_chatbot/      # Fine-tuned BERT, ALBERT, DistilBERT
-│── gpt\_chatbot/              # GPT-2 based chatbot
-│── rag\_chatbot/              # LangChain RAG chatbot with FAISS
+│── deep_learning_chatbot/    # BiLSTM & GRU intent classification
+│── transformer_chatbot/      # Fine-tuned BERT, ALBERT, DistilBERT
+│── gpt_chatbot/              # GPT-2 based chatbot
+│── rag_chatbot/              # LangChain RAG chatbot with FAISS
 
 ````
 
